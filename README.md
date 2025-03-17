@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Xin chào, tôi là Trung Kiên
 
-<!--
-**kiennguyen2202/kiennguyen2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Về tôi  
+- 💻 Tôi là một lập trình viên đam mê công nghệ.  
+- 🎯 Hiện tại, tôi đang học và làm việc với **ASP.NET Core MVC, Entity Framework
+- 📚 Tôi cũng đang học tiếng Anh để thi **TOEIC**.  
 
-Here are some ideas to get you started:
+## 🛠 Kỹ năng của tôi  
+- **Ngôn ngữ lập trình:** C#, JavaScript  
+- **Framework:** ASP.NET Core, Entity Framework  
+- **Công cụ:** Git, GitHub, Visual Studio  
+- **Cơ sở dữ liệu:** SQL Server  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Liên hệ với tôi  
+- GitHub: [github.com/kiennguyen2202](https://github.com/kiennguyen2202)  
+- Email:mrkiequangngai2@gmail.com  
+
+⭐ Hãy follow tôi để cùng học hỏi và phát triển nhé!  
