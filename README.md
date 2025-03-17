@@ -1,4 +1,8 @@
-# 💫About Me :
+<h1 align="center">👋 Hello, I'm Kien</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0GqeSlGSRQxAMvV6/giphy.gif" width="200">
+</p>
 ## 🚀 About Me  
 - 💻 Passionate software developer.  
 - 🎯 Currently learning and working with **ASP.NET Core MVC, Entity Framework, GitHub,** and **Advanced Databases**.  
