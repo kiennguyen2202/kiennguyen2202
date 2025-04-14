@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Kien</h1>
+<h1 align="center">👋 Hello, I'm Rin</h1>
 
 
 ## 🚀 About Me  
