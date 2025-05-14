@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 - 💻 Passionate software developer.  
-- 🎯 Currently learning and working with **ASP.NET Core MVC, Entity Framework, GitHub**, and **Advanced Databases**.  
+- 🎯 Currently learning and working with **ASP.NET Core API, Entity Framework, GitHub**, and **Advanced Databases**.  
 - 🌱 Preparing for the **TOEIC** exam to improve my English skills.  
 - 🎨 Hobbies: Coding 💻 | Gaming 🎮 | Listening to music 🎵  
 
